@@ -1,0 +1,24 @@
+# Ignore GeoTIFF tiles
+*.tif
+*.tiff
+
+# Ignore shapefiles and related files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.qix
+*.qpj
+*.fix
+*.gpkg
+
+.DS_Store
+*.xml
+*.iml
+
+# local conda env
+biltong_env/
+
